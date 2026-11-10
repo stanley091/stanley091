@@ -6,7 +6,30 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
+<!# Network Security and VLAN Configuration
+
+## Project Overview
+Designed a simulated organisational network
+using Cisco Packet Tracer.
+
+## Tools Used
+- Cisco Packet Tracer
+- VLANs
+- Inter-VLAN Routing
+- Access Control Lists
+
+## Project Objectives
+- Separate HR and Finance networks.
+- Configure inter-VLAN communication.
+- Apply access control restrictions.
+
+## Project Outcome
+Successfully configured a simulated
+organisational network with traffic
+restrictions between departments.
+
+## Screenshots
+[Insert project screenshots]---
 stanley091/stanley091 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
