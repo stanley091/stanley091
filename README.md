@@ -28,8 +28,6 @@ Successfully configured a simulated
 organisational network with traffic
 restrictions between departments.
 
-## Screenshots
-[Insert project screenshots]---
 stanley091/stanley091 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
